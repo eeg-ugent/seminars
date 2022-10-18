@@ -1,2 +1,4 @@
-# seminars
-all information related to the EEG Methods seminar series organized at the Dept. of Experimental Psychology
+# EEG Seminars
+All information related to the EEG Seminar series organized at the Dept. of Experimental Psychology: </br>
+https://github.com/eeg-ugent/seminars/wiki/EEG-Seminars
+
